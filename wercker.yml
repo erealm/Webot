@@ -1,6 +1,4 @@
 box: wercker/nodejs
-services:
-    - redis
 build:
   # The steps that will be executed on build
   steps:
