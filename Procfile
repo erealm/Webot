@@ -1,1 +1,1 @@
-web: bin/hubot -a gtalk -n Webot
+web: bin/webot -a gtalk -n Webot
